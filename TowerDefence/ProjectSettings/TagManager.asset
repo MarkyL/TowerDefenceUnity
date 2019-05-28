@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Checkpoint
+  - Enemy
+  - BuildSite
+  - Ground
+  - Tower
+  - BuildSiteFull
+  - Projectile
+  - ground
+  - buildSite
+  - BuildSiteFull5
+  - BuildSiteFull10
+  - BuildSiteFull15
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Path
+  - Extras
+  - CollisionLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 533006233
+    locked: 0
+  - name: Path
+    uniqueID: 2232808395
+    locked: 0
+  - name: Extras
+    uniqueID: 148666607
+    locked: 0
